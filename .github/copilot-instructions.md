@@ -1,0 +1,5 @@
+- [x] Verify project scaffolding and file creation.
+- [x] Ensure React + Tailwind CSS setup is complete.
+- [x] Keep project within current workspace root.
+- [x] Use Vite, React, Tailwind, and no backend.
+- [x] Provide README with install and run instructions.
